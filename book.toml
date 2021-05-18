@@ -1,6 +1,8 @@
 [book]
-authors = ["blasterlord"]
+authors = ["NisiOisiN"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Monogatari Series Short Stories"
+
+[output.epub]
