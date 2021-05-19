@@ -19,6 +19,9 @@ if __name__ == "__main__":
         metadata = json.load(f)
     VERSION = metadata["version"]
     
+    # Create output directory if it doesn't already exist
+    Path("book").mkdir(exist_ok=True)
+    
     # Generate Pandoc's args
     args = [
         "pandoc",
@@ -27,4 +30,5 @@ if __name__ == "__main__":
         "--metadata-file=metadata.json",
         "-o", f"book/Monogatari_Series_Short_Stories_V_{VERSION.replace('.', '_')}.epub",
     ] + markdown_files
+    
     subprocess.run(args)
