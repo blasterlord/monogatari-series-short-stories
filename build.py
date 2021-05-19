@@ -3,8 +3,6 @@ import subprocess
 import shutil
 import json
 
-VERSION = "0.1"
-
 if __name__ == "__main__":
 
     # Check if Pandoc exists
