@@ -1,5 +1,0 @@
----
-title: Monogatari Series Short Stories
-author: NisiOisiN
-language: en-US
-...
