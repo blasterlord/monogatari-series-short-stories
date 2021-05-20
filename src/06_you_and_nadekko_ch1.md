@@ -1,6 +1,6 @@
 # You and Nadekko - Chapter 1
 
-_Heroine Book 4: Senkogu Nadeko_  
+_Heroine Book 4: Sengoku Nadeko_  
 _30 January 2014_  
 _Translation: Kizunever Scanlations_
 
