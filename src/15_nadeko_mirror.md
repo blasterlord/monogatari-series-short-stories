@@ -6,10 +6,10 @@ _Onimonogatari BD/DVD vol. 2_
 _28 May 2014_
 _Translation: Tarable Translations_
 
-![Constrict, bite, lie.  
-That is just what snakes do.  
-An unrequited love, tenacious like a snake.[^1]  
-The story will now bear its fangs.](15_nadeko_mirror.jpg)
+![_Constrict, bite, lie._  
+_That is just what snakes do._  
+_An unrequited love, tenacious like a snake.[^1]_  
+_The story will now bear its fangs._](15_nadeko_mirror.jpg)
 
 Let’s talk about Robert Louis Stevenson’s Jekyll & Hyde. Why yes, I did read it just to make myself look good, sorry. Whenever a middle school student like me (I’m Sengoku Nadeko, by the way, hello) reads a book, especially foreign literature, they’re almost always doing it just to show off (100% fact). To tell you the truth, this book is one of the ones I added to my shelf to make myself look smarter back when Koyomi-oniichan came over to play. Some time after that, I picked it off the bookshelf while I was cleaning up my room. I’m not used to reading, so the very manageable page count was probably the biggest reason I chose this one. But, in any case, reading is an encounter. I thought it was a very interesting book. It’s a very famous work, so I already knew some of the details, but it turned out to be a masterpiece that differed from my expectations in a good way.
 

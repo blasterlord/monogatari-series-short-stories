@@ -6,9 +6,9 @@ _Onimonogatari BD/DVD vol. 1_
 _23 April 2014_  
 _Translation: Haremless_
 
-![The demon cries at the stories of the past.[^1]  
-Long ago there was a place where both humans and monsters lived.  
-The legend of a solitary demon.](16_shinobu_science.jpg)
+![_The demon cries at the stories of the past.[^1]_  
+_Long ago there was a place where both humans and monsters lived._  
+_The legend of a solitary demon._](16_shinobu_science.jpg)
 
 In the opening of Isaac Asimov’s I, Robot, are his famous Three Laws of Robotics. The book itself is a collection of short stories, but all of them involve the relationship between humans and robots who are ensnared by the Laws. The story that I, Oshino Shinobu, was most excited about was the sixth story, Little Lost Robot. The sorrow of a robot enslaved to those inferior to it, and the determination to stand up to the humans by taking advantage of the small loopholes in the rules that govern its life was quite thrilling, even to me as a vampire having lived five hundred years.
 

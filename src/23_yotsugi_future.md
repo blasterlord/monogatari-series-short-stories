@@ -4,8 +4,8 @@ _Onimonogatari BD/DVD vol. 2_
 _28 May 2014_  
 _Translation: Haremless_
 
-![A doll, like the shell of an evil spirit.  
-An expressionless ornament.](23_yotsugi_future.jpg)
+![_A doll, like the shell of an evil spirit._  
+_An expressionless ornament._](23_yotsugi_future.jpg)
 
 “Momo by Michael Ende.”
 

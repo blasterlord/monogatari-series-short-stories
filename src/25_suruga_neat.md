@@ -4,10 +4,10 @@ _Yomiuri Shimbun_
 _16 August 2014_  
 _Translation: Ryoukugan_
 
-![Good medicine tastes bitter[^1]  
-Good poison is even more painful  
-Let's make the flowers bloom in the future.  
-A young maiden and an evil spirit double team[^2]](25_suruga_neat.jpg)
+![_Good medicine tastes bitter[^1]_  
+_Good poison is even more painful_  
+_Let's make the flowers bloom in the future._  
+_A young maiden and an evil spirit double team[^2]_](25_suruga_neat.jpg)
 
 “Have you heard of Mary Hastings Bradley’s Alice in Jungleland, my beloved daughter, Kanbaru Suruga-chan?”
 

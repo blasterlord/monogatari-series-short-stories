@@ -4,9 +4,9 @@ _Onimonogatari BD/DVD vol. 2_
 _28 May 2014_  
 _Translation: Tarable Translations_
 
-![We don’t know what lies ahead.[^1]  
-But still  
-I’d say “no” is the best answer.](24_ougi_travel.jpg)
+![_We don’t know what lies ahead.[^1]_  
+_But still_  
+_I’d say “no” is the best answer._](24_ougi_travel.jpg)
 
 I’m sure you’ve read Jules Verne’s Around the World in Eighty Days, haven’t you? Although today’s society, filled with all sorts of fun and recreation to be found outside of books, has slowly but surely drifted away from literature, there are still certain classics that everyone should read. I think that Around the World in Eighty Days is inarguably one of those classics. Don’t you agree, Hanekawa-senpai?
 

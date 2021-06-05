@@ -7,8 +7,8 @@ _28 May 2014_
 _Translation: Haremless_
 
 
-![Wicked ways vs. wicked tongue.[^1]  
-Our love story, love-hate edition.](19_hitagi_salamander.jpg)
+![_Wicked ways vs. wicked tongue.[^1]_  
+_Our love story, love-hate edition._](19_hitagi_salamander.jpg)
 
 Ray Bradbury’s Fahrenheit 451 is a book about a world in which publication regulations, oppression of the freedom of speech and censorship are strengthened whenever those issues cause discord in society; a book about book burning, but you could also read it from a completely different point of view and see that it’s an outstanding piece of entertainment written with a playful mood, and yet it still makes a sly bastard like me enjoy it. Surprisingly, it may be more interesting to read this book without any preconceived notions. To start with, the protagonist, Guy Montag, is one of the people who burn the books. He’s a book burner who dresses like a firefighter, douses books with kerosene and burns them to ashes. Almost sounds like a rock star, doesn’t he. Well, eventually, he meets a 17-year-old girl named Clarisse and slowly begins to change. You could even take it as a very well written “boy meets girl” story, although Montag isn’t exactly a boy at his age.
 

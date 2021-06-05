@@ -6,8 +6,8 @@ _Onimonogatari BD/DVD vol. 1_
 _23 April 2014_  
 _Translation: Haremless_
 
-![Innocence, innocence, fly away![^1]  
-Run against the winds on the path of fate](13_mayoi_castle.jpg)
+![_Innocence, innocence, fly away![^1]_  
+_Run against the winds on the path of fate_](13_mayoi_castle.jpg)
 
 Lucy Maud Montgomery is well known as the author of Anne of Green Gables, but this morning let’s talk about something “blue” instead of something “red” like Anne’s hair.[^2] In other words, we’ll be talking about the story starring Valancy Stirling, The Blue Castle.
 
