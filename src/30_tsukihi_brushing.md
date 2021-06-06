@@ -502,7 +502,8 @@ He turned away looking despondently, and after looking around as if searching fo
 
 “I’ll have to wash your hair with my mouth.”
 
-★
+<!--Hack to get the star to center-align-->
+<br /><p style="text-align: center;">★</p><br />
 
 “Whew! I managed to get my immortality-infused saliva all over Tsukihi-chan’s hair. With that, the damaged hair will be repaired and there’s no doubt it’ll completely heal, right Shinobu?”
 
