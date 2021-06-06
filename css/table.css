@@ -1,0 +1,70 @@
+/* eBook styles by Mark Boulton Design  ---- */
+/* Table Styles */
+
+table {
+    display: table;
+    border-collapse: collapse;
+    font-size: 1em;
+    margin: 2em 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+caption {
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+thead {
+    display: table-header-group;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+}
+
+tbody {
+    display: table-row-group;
+}
+
+th,
+caption {
+    font-weight: bold;
+    padding-bottom: 1em;
+    padding-right: 10px;
+}
+
+th, td {
+    text-align: left;
+    display: table-cell;
+    line-height: 1em;
+}
+
+td {
+    border-bottom: 1px solid;
+    padding: 1em 0.5em;
+    font-size: 0.8em;
+    vertical-align: top;
+}
+
+td p {
+    text-indent: 0;
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+
+td img {
+    width: 100%;
+}
+
+tr {
+    display: table-row;
+}
+
+tfoot {
+    display: table-footer-group;
+    vertical-align: baseline;
+}
+
+thead th,
+tfoot th {
+    padding-top: 1em;
+}

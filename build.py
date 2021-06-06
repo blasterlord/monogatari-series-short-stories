@@ -27,6 +27,8 @@ if __name__ == "__main__":
         "--resource-path=assets", # Resource folder to locate images
         "--epub-cover-image=assets/00_01_cover.jpg",
         "--metadata-file=metadata.json",
+        "--css=css/epub.css",
+        "--css=css/table.css",
         "-o", f"book/Monogatari_Series_Short_Stories_V_{VERSION.replace('.', '_')}.epub",
     ] + markdown_files
     
