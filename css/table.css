@@ -4,14 +4,12 @@
 table {
     display: table;
     border-collapse: collapse;
-    font-size: 1em;
     margin: 2em 0;
     width: 100%;
-    table-layout: fixed;
+    table-layout: auto;
 }
 
 caption {
-    font-size: 1.25em;
     text-transform: uppercase;
 }
 
