@@ -29,6 +29,7 @@ if __name__ == "__main__":
         "--metadata-file=metadata.json",
         "--css=css/epub.css",
         "--css=css/table.css",
+        "--filter=filters/page_break.py",
         "-o", f"book/Monogatari_Series_Short_Stories_V_{VERSION.replace('.', '_')}.epub",
     ] + markdown_files
     

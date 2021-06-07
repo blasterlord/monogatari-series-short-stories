@@ -5,36 +5,36 @@ _28 June 2014_
 _Translation: Kizunever Scanlations_
 
 <!-- Hack for forcing page-breaks -->
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_01.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_02.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_03.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_04.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_05.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_06.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_07.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_08.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_09.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_10.jpg)
-<div style="page-break-before:always;"></div>
+$pagebreak
 
 ![](22_you_and_nadekko_ch2_11.jpg)
