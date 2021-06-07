@@ -9,6 +9,8 @@ _Translation: Haremless_
 ![_Innocence, innocence, fly away![^1]_  
 _Run against the winds on the path of fate_](13_mayoi_castle.jpg)
 
+$pagebreak
+
 Lucy Maud Montgomery is well known as the author of Anne of Green Gables, but this morning let’s talk about something “blue” instead of something “red” like Anne’s hair.[^2] In other words, we’ll be talking about the story starring Valancy Stirling, The Blue Castle.
 
 “Have you read it before? Araragi-san.”

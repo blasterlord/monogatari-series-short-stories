@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](07_tsukihi_eternal.jpg)
 
+$pagebreak
+
 It seems like I had forgotten about what kind of personality Araragi Tsukihi had. Even if I had, let’s see, gotten careless after winning (?) against Kagenui-san and Yotsugi-chan in our battle, as everyone who’s listened to the anime CD dramas must know,
 
 “At the end of the summer holiday, I want to introduce my girlfriend to you.”

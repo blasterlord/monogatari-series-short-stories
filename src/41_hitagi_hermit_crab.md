@@ -6,6 +6,8 @@ _Translation: Nyorem_
 
 ![](41_hitagi_hermit_crab.jpg)
 
+$pagebreak
+
 “Even though I said ‘Let’s eat crabs’, you won’t be quite able to eat all of them in one bite. There exists a huge variety of crabs, you know. The swimming crab, the queen crab, the red frog crab, the Echizen crab, the snow crab, the heikegani,[^1] or the Chinese crab. There are even soft-shell crabs, whose softness equals mine. Since you can even eat the inside, you can say that it’s the king of crabs but not quite the red king crab.”[^2]
 
 Senjougahara said this with her usual, flat, monotonous tone, so I thought that she wanted me to answer something. Without particularly thinking, I wanted to say something like “But the red king crab is not a crab, isn’t it?”. And just at this moment.

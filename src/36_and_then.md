@@ -7,6 +7,8 @@ _Translation: Ryoukugan_
 
 ![](36_and_then.jpg)
 
+$pagebreak
+
 Dramaturgy came to visit me almost exactly a year after that Spring Break from hell. Dramaturgy—the vampire hunter who hunts his own kind. Strictly speaking, it had been exactly 360 days since the night that I fought with that muscular giant’s twin swords on the grounds of Naoetsu High School. 
 
 It’s been a year, but it isn’t spring break, at least not for me, since I’ve already graduated from that school.

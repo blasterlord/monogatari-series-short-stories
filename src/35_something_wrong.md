@@ -7,6 +7,8 @@ _Translation: Ryoukugan_
 
 ![](35_something_wrong.jpg)
 
+$pagebreak
+
 “Ah, that’s good.”
 
 “What is?”

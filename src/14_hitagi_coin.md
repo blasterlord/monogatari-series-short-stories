@@ -6,6 +6,8 @@ _Translation: Trauben Saft_
 
 ![](14_hitagi_coin.jpg)
 
+$pagebreak
+
 Senjougahara Hitagi had been deceiving. As for what she’d been deceiving, the answer would be everything—everything and everyone around her, for two years. She had been hiding the curse that had befallen her, the condition she had been suffering from, all that time. I can’t help but think about what that must have been like. Of course, I’m not an especially honest person either. I’m an adolescent high schooler who lives his life lying just like anybody else, somehow managing to get along. But I end up wondering precisely because I’m that kind of person, what it must be like to deceive, to continue to trick everything and everyone, to keep on lying no matter what.
 
 “If anything, won’t you have to do that from now on, Araragi-kun? After all, you’ll have to hide the fact that you’re a vampire—not just for two years, but the rest of your life.” Senjougahara answered.

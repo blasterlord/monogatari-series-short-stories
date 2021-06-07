@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](09_hitagi_neck.jpg)
 
+$pagebreak
+
 Apparently Senjougahara Hitagi had been waiting eagerly for this day to come. As to what “this day” means, it would be the day when I introduced her as my girlfriend to my two sisters, Araragi Karen and Araragi Tsukihi.
 
 “Why were you so excited about today anyway… Are you actually a big fan of the Fire Sisters?”

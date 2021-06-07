@@ -6,6 +6,8 @@ _Translation: Polaris Translations_
 
 ![](05_tsubasa_song.jpg)
 
+$pagebreak
+
 That Sunday, instead of being woken up by my two little sisters Karen and Tsukihi, I awoke from the ringtone that sounded out when Hanekawa’s text message arrived. Usually I would boast of my ability to completely ignore the melody of my cell phone, but there was some merit in waking up at the time, and if I do say so myself I was very shrewd for doing so, because the sender was Hanekawa. Well, as always her message was incredibly formal, and furthermore the length was by no means short, and it needed some time to be deciphered, but if I translated it into a style that anyone could understand,
 
 “Let’s go on a date ♥”

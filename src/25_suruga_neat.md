@@ -9,6 +9,8 @@ _Good poison is even more painful_
 _Let's make the flowers bloom in the future._  
 _A young maiden and an evil spirit double team[^2]_](25_suruga_neat.jpg)
 
+$pagebreak
+
 “Have you heard of Mary Hastings Bradley’s Alice in Jungleland, my beloved daughter, Kanbaru Suruga-chan?”
 
 “I doubt you have”, my awful mother, Kanbaru Tooe-san, continued with a malicious, smirking laugh. Of course, although I unfortunately didn’t know anything about that book, not being very well read, what I wanted to know is why she, who should have passed away long ago in a traffic accident, now seemed to have come back to mock me like this.

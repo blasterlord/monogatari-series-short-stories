@@ -6,6 +6,8 @@ _Translation: Unknown_
 
 ![](02_mayoi_room.jpg)
 
+$pagebreak
+
 That Sunday, I was in my room at my wits’ end.
 
 “This is bad. What am I going to do? For it to turn out like this… Aah. I can’t recover from this. I thought I was an idiot, an idiot, but to think that I could be this much of an idiot… I can’t even follow up on this.”

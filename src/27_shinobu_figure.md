@@ -6,6 +6,8 @@ _Translation: Kavitha_
 
 ![](27_shinobu_figure.jpg)
 
+$pagebreak
+
 To me, Oshino Shinobu is a special existence.
 
 So very special that she is more like a part of my body—of course, it is not that she is a part of my body; it is more like I’m a part of her body; no matter which, we are one in body and soul, and as inseparable as two sides of a coin, with advantages and disadvantages to it; we have a bond that will not be broken.

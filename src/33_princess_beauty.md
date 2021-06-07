@@ -6,6 +6,8 @@ _Translation: Mirrored Translations_
 
 ![](33_01_princess_beauty.png)
 
+$pagebreak
+
 The following is a true story from six hundred years ago. However, I would prefer you think of it as fiction. Why? It is too old a story to have much measure of authenticity, and it has neither lessons nor morals—I am sure such a story would be better taken as a lie.
 
 

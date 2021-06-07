@@ -6,6 +6,8 @@ _Translation: Nyorem_
 
 ![](43_mayoi_name.jpg)
 
+$pagebreak
+
 “By the way, Kisaragi-san.”[^1]
 
 “How did you just call me? If you continue misreading my name, we will have problems continuing this story. Hachikuji, you should not make mistakes with the names of people you know. If you were to do that in a short story of the special edition of a manga then people would think that you are talking to a completely new character, namely ‘Kisaragi-san’. Don’t make such a mistake again, please.”

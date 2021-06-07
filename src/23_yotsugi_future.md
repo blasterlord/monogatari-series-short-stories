@@ -7,6 +7,8 @@ _Translation: Haremless_
 ![_A doll, like the shell of an evil spirit._  
 _An expressionless ornament._](23_yotsugi_future.jpg)
 
+$pagebreak
+
 “Momo by Michael Ende.”
 
 “Don’t push yourself Ononoki-chan!”

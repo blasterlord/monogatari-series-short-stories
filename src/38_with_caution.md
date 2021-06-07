@@ -7,6 +7,8 @@ _Translation: Nyorem_
 
 ![](38_with_caution.jpg)
 
+$pagebreak
+
 A young boy with a white uniform and the left leg of a woman on his shoulders states:
 
 “At first, I wondered how it would turn out, but in the end, with our combined effort, it went surprisingly well.”

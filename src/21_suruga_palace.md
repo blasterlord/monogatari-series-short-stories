@@ -7,6 +7,8 @@ _Translation: Haremless_
 ![_An uncanny relationship formed by a quirk of fate[^1]_  
 _Pray for a good match._](21_suruga_palace.jpg)
 
+$pagebreak
+
 Read The Red House Mystery by A. A. Milne, Kanbaru Suruga. When it comes to Milne, he is, without it needing to be said, most famous for being the children’s author who wrote Winnie the Pooh, but apparently the only full-length mystery he ever wrote was this book, The Red House Mystery. So that’s why I read it. What? The guy who wrote Winnie the Pooh wrote a mystery novel? I want to read it! I want to read it!—that was pretty much my train of thought. There are probably people who would say that I’m not a real appreciator of literature if they saw me like that, but I don’t particularly like having my eating habits, let alone my reading habits criticized by other people.
 
 “I’m sure they’re right though, I’m pretty indiscriminate in my choice of books. Kanbaru, what mood you configure your bookshelves to is what one may call your prerogative, but a selection from such an eccentric direction is not something I can very well approve of. The Red House Mystery?”

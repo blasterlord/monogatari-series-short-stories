@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](26_rouka_god.jpg)
 
+$pagebreak
+
 The reason I decided to purge the Swamp God, as you may all have guessed, was that it was interfering with my wholesome and sound business ventures. What a despicable god, destroying without a second thought all the sincere and faithful hard work I had been humbly doing in good conscience over the years as a productive member of society. I had no choice but to proactively engage in some defensive measures against the Swamp God in order to protect my rights. Of course, that sincerity and faith was in money and the rights I was protecting were my rights to deception. And of course, none of this was done on my nonexistent good conscience. Though none of this changes the fact that claiming so in my good conscience is perfectly within my sincere and faithful rights.
 
 But no, even if that weren’t the case, even if one of the lies in the web of lies that were the charms I had been spreading with all my might, my storm of wild rumors, once they had all completely disappeared, I would have to start fresh, having neither gained nor lost anything.

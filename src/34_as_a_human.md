@@ -7,6 +7,8 @@ _Translation: Ryoukugan_
 
 ![](34_as_a_human.jpg)
 
+$pagebreak
+
 At nearly the same time that my servant went off to fetch the braided rations,[^1] as calmly as if they had only just missed each other, and as suddenly as slipping through a gap, Guillotine Cutter made his appearance.
 
 “What is this? Were thou not to wait for us?”

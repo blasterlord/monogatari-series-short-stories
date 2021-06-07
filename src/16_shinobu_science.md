@@ -10,6 +10,8 @@ _Translation: Haremless_
 _Long ago there was a place where both humans and monsters lived._  
 _The legend of a solitary demon._](16_shinobu_science.jpg)
 
+$pagebreak
+
 In the opening of Isaac Asimov’s I, Robot, are his famous Three Laws of Robotics. The book itself is a collection of short stories, but all of them involve the relationship between humans and robots who are ensnared by the Laws. The story that I, Oshino Shinobu, was most excited about was the sixth story, Little Lost Robot. The sorrow of a robot enslaved to those inferior to it, and the determination to stand up to the humans by taking advantage of the small loopholes in the rules that govern its life was quite thrilling, even to me as a vampire having lived five hundred years.
 
 “Hmm… Now that you mention it, I remember that you were a big science fiction fan, Shinobu-oneechan. I guess a monster that just lives for a long time would be quite fascinated with future civilizations.”

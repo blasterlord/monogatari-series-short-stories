@@ -9,6 +9,8 @@ _Translation: Ryoukugan_
 
 ![](37_why.jpg)
 
+$pagebreak
+
 Is it alright if I tell one occasionally?
 
 It’s a collector of monster stories telling stories about monsters.[^1]

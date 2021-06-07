@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](10_shinobu_house.jpg)
 
+$pagebreak
+
 It was only on the night after the meeting held in the living room of the Araragi house between the couple; Araragi Koyomi and Senjougahara Hitagi, and the Fire Sisters; Araragi Karen and Araragi Tsukihi, later to be known as “Gahara Summit” had ended, that Oshino Shinobu appeared, seeming rather displeased.
 
 Shinobu, who despite being nocturnal by no means would always appear at night, did in fact appear as if it were the most normal thing.

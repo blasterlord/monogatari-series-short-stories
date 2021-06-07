@@ -6,6 +6,8 @@ _Translation: Kavitha_
 
 ![](20_hitagi_throwing.jpg)
 
+$pagebreak
+
 As someone who has known Senjougahara Hitagi for many years and who continues to believe in her, saying something like this feels like a special kind of betrayal; but, when I first met her during the first year of middle school, the impression I had of her was not a good one.
 
 Or rather, sorry for saying it as it is.

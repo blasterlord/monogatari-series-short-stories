@@ -6,6 +6,8 @@ _Translation: Eagle Translations_
 
 ![](04_nadeko_pool.jpg)
 
+$pagebreak
+
 Sengoku said that she wanted me to teach her how to swim, so we went to the public pool that Sunday. I can’t even remember the last time I went to a public pool. The pool was a little too far to go by bicycle, so we ended up taking the bus.
 
 “But Sengoku, if you want to learn how to swim, couldn’t you just ask Karen or Kanbaru to teach you?” I asked as we rode side by side on the bus.

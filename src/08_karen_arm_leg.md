@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](08_karen_arm_leg.jpg)
 
+$pagebreak
+
 Araragi Karen is quite tall. In the sense that she was simply tall, without needing any sort of explanation or sidenote added such as “for a girl”, or “for someone in ninth grade” or even “compared to her brother”, she was just tall. And even scarier than the most terrifying ghost stories is the fact that even now she’s still growing. Setting aside these feelings of terror and fear, these emotional problems, and investigating the “condition” of her height, logically thinking it follows that both her legs and arms are quite long as well.
 
 Like the two youkai, Tenaga and Ashinaga.[^1] 

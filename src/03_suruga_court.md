@@ -6,6 +6,8 @@ _Translation: Polaris Translations_
 
 ![](03_suruga_court.jpg)
 
+$pagebreak
+
 When the day to settle things with Kanbaru finally arrived, it fell on a Sunday. Well, since I don’t have a lot of space I won’t go into detail, but recently, that girl had ascended to a practically intolerable level. Aside from me, when I learned that even Senjougahara was bothered, I finally decided that the situation had gotten serious. It would be the right thing to scold her as her senior while it wasn’t too late.
 
 If I don’t show my dignity as her senior at this point, I would be setting a bad example.

@@ -6,6 +6,8 @@ _Translation: Nyorem_
 
 ![](40_hitagi_dish.jpg)
 
+$pagebreak
+
 “Oshino-san probably already said something like that, but crab is delicious mainly because it is difficult to eat, right?”
 
 Senjougahara Hitagi told me that just after having gained back her weight from the oddity known as the Heavy Stone Crab. Well, it is kind of her habit, having this kind of idle talk.

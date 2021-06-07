@@ -10,6 +10,8 @@ _Translation: Ryoukugan_
 _Flexible like a cat,_  
 _Stiff like a human, a story of struggle and suffering._](12_tsubasa_board.jpg)
 
+$pagebreak
+
 In the final volume of his four-part Odyssey Series, 3001: The Final Odyssey, Arthur C. Clarke defines an “intellectual” as such: “someone who has been educated beyond their intelligence”. As someone who has lived her entire life cramming knowledge and information into her body just as someone who is starving seeks to live, when I read this definition for the first time, it felt as if my own name were called out. Without a doubt.
 
 Receiving an education isn’t necessarily a good thing, nor is having knowledge. Only “knowing” something is exactly the same as not knowing it.

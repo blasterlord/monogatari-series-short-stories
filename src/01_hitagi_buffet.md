@@ -6,6 +6,8 @@ _Translation: Unknown_
 
 ![](01_hitagi_buffet.jpg)
 
+$pagebreak
+
 Usually I can easily see Senjougahara at school, but seldom do I have time to meet her on Sundays. But shockingly, we met up that day.
 
 Having said that, it’s just that she got a free coupon from her father for a cake buffet that is for limited use on Sunday and she suddenly wanted to use it. It’s a dessert café that is too expensive for civilians, so in order for the shop to maintain its style, it usually does not take up such pirate-like behavior as buffets, but it seemed to be the shop’s anniversary that day.

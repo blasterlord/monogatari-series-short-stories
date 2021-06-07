@@ -7,6 +7,8 @@ _Translation: Kavitha_
 
 ![](18_hitagi_figure.jpg)
 
+$pagebreak
+
 I feel that this is a situation which for those who have come here through the anime is quite obvious, while those who have come here only through the figure will feel that nothing makes sense. It was soon after my weird coexistence with the violent specialist, Kagenui Yozuru’s shikigami, Ononoki Yotsugi had begun; Senjougahara Hitagi came to visit the Araragi residence.
 
 As to why she came, more than saying that it was to see how my preparations for my university entrance exams were going, it would be more accurate to say that she came to ask “Araragi-kun, you are not slacking off on your studies, are you?”

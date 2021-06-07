@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](30_tsukihi_brushing.jpg)
 
+$pagebreak
+
 Brushing her hair is a girl’s dedication, her daily ritual. But something becoming a habit also means that you become oblivious to changes. I, Araragi Tsukihi, hadn’t been aware of that, not until that day, that morning, and that time, when I felt it.
 
 “Ow!”

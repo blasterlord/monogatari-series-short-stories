@@ -8,6 +8,8 @@ _Translation: Tarable Translations_
 _But still_  
 _I’d say “no” is the best answer._](24_ougi_travel.jpg)
 
+$pagebreak
+
 I’m sure you’ve read Jules Verne’s Around the World in Eighty Days, haven’t you? Although today’s society, filled with all sorts of fun and recreation to be found outside of books, has slowly but surely drifted away from literature, there are still certain classics that everyone should read. I think that Around the World in Eighty Days is inarguably one of those classics. Don’t you agree, Hanekawa-senpai?
 
 “I do… But I find it hard to believe that you honestly think that, Ougi-chan,” Hanekawa-senpai answers, looking irritated by my friendly inquiry.

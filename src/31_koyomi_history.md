@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](31_koyomi_history.jpg)
 
+$pagebreak
+
 “Oh silly you, Araragi-kun. Are you studying history? Isn’t that nice. I’m sure your personification of the unsightly beauty of pointless hard work will be recorded for posterity.”
 
 No holding back right from the beginning I see. Don’t you dare record anything unsightly about me for posterity. But now that I think about it, back when I first met Senjougahara Hitagi she was just like this. And ever since then I’ve met so many different Senjougahara Hitagis.

@@ -7,6 +7,8 @@ _Translation: Haremless_
 
 ![](11_cat_sign_astrology_00.jpg)
 
+$pagebreak
+
 Today we’ll be having Black Hanekawa tell us the horoscopes for not the twelve zodiac signs, but the twelve cat zodiac signs.
 
 First off, pick your favorite story from Bakemonogatari I to Koimonogatari. That’ll be your cat zodiac sign, once you’ve got it, sit back, relax and let off all that stress that you’ve been building up!!

@@ -6,6 +6,8 @@ _Translation: Haremless_
 
 ![](32_yotsugi_stress.jpg)
 
+$pagebreak
+
 “Unlimited Rulebook”
 
 Ononoki Yotsugi said, as she unleashed whatever that move or more like that brute force attack was called, blowing away half of the monkey oddity that I, the Curse Cat and that little girl vampire were barely holding our own against.

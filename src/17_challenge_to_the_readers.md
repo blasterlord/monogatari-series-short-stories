@@ -7,6 +7,8 @@ _Translation: Maxdefolsch_
 
 ![](17_challenge_to_the_readers.jpg)
 
+$pagebreak
+
 Hai hai, hello to all readers of this Shonen Magazine supplement. Oshino Ougi here. “Arslan Senki” is interesting, isn’t it! I enjoyed reading both the first and the second episode very much. I really like feeling excited when I read manga. It was so much fun, I thought about reading the original work on occasion. The feeling that reading is chained like this is really fun. I could keep reading books forever. It’s a perpetual reading mechanism. Anyway, what kind of developments is awaiting in the third episode published this month? I want to get out of the classroom soon and return to reading.
 
 So, this is the “challenge to the readers”. Please stop reading the novel here, and deduce the truth of the case that Araragi-senpai encountered in first year. As I declared in the work, everything needed to identify the true culprit has been given. To say it in the style of old game books: “Please, solve the mystery to free us of this locked room!”. Well, even if I say it this way, most people don’t know about old game books. Actually, I don’t know either. I don’t know anything.
